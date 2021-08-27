@@ -50,3 +50,4 @@ def word_counter():
     print(len(li))
     for i in li:
         print(dict[i], end=' ')
+
